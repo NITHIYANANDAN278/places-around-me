@@ -4,17 +4,15 @@ To develop a website to display details about the places around my house.
 
 ## Design Steps:
 ## Step 1:
-Clone the github repository into Theia IDE.
-
+Create a new django project and app
 ## Step 2:
-Create a new Django project
-
+Add a new imagemap html file in templates and neede images in static folder and define it in settings.
 ## Step 3:
-Write the needed HTML code.
-
+Type ur image map code in the html with coordinates and target file to redirect on click
 ## Step 4:
-Run the Django server and execute the HTML files
-
+Define your components pages and create content in such a way that it gives information about place which is being clicked
+## step 5:
+Include pictures and contents for your subpages and map them using urls and views
 ## Code:
 Map.html
 ```
